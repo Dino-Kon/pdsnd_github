@@ -26,6 +26,12 @@ Dataset files provided from three major cities (Washington, New York City and Ch
 new_york_city.csv
 washington.csv**
 
+### Contributions
+Contributions are welcome!
+- If you find any typos or bugs feel free to correct them.
+- Include another resource if you think it is necessary.
+- Please keep the changes small.
+- Must add strings of documentation when adding or changing code.
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
